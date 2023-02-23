@@ -8,6 +8,8 @@ question = "Will anyone ever read this code?"
 
 random_number = random.randint(1, 9)
 
+#generate random number between 1 and 9
+
 if random_number == 1:
   answer = "Yes - definitely"
 
@@ -37,10 +39,13 @@ elif random_number == 9:
 
 else:
   print("Error")       
+
     
 if name == "":
   print(f"Question: {question}")
   print(f"Magic 8-Ball's answer: {answer}")
+
+#in case no name is entered
 
 else:
   print(f"{name} asks: {question}")
