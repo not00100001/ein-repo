@@ -5,6 +5,7 @@ value1 = width // 2
 value1_no_floor = width / 2
 
 print(value1, type(value1))
+
 print(f"This is the value without floor division: {value1_no_floor}")
 
 # the // operator in python performs floor division. It rounds down to the nearest whole number
