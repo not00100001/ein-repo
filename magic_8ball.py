@@ -1,3 +1,5 @@
+# exercise from codecademy.com
+
 import random
 
 name = "Visitor"
