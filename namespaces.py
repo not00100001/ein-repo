@@ -5,4 +5,4 @@ def my_function():
     print(f"You're telling me my_var will show different values? {my_var} ")
 
 my_function()
-print(f"Holy moly, it works! {my_var}")
+print(f"Holy moly, it does! {my_var}")
