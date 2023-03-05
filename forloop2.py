@@ -1,3 +1,9 @@
+import this
+
+# the Zen of Python is printed onto console 
+
+print("")
+
 friends = ["Bobby", "Glenn", "Susan"]
 
 for i in range(len(friends)):
