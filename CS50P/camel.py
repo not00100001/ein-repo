@@ -27,8 +27,6 @@
 
 str_convert = input("Put in that string! ")
 
-count = 0
-
 for i in range(len(str_convert)):
     if str_convert[i].isupper():
         up_letter = str_convert[i]
